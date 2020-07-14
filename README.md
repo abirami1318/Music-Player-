@@ -9,5 +9,5 @@ Simple music player using tkinter and pygame
     3) Enter cd Music-Player-
     
     4) Enter python music_player.py
-##Note:
+## Note:
 Specify your music location in this program.
